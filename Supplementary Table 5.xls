@@ -1,0 +1,92 @@
+GOID	GOTerm	QueryID	Symbol	Description	P-Value	FDR	Enrichment
+GO:0007267	cell-cell signaling	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.000275469131467761	0.0154298868341858	77.9157509157509
+GO:0007267	cell-cell signaling	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.000275469131467761	0.0154298868341858	77.9157509157509
+GO:0070965	positive regulation of neutrophil mediated killing of fungus	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.000986981177556689	0.0154298868341858	1012.90476190476
+GO:0070873	regulation of glycogen metabolic process	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.000986981177556689	0.0154298868341858	1012.90476190476
+GO:0043308	eosinophil degranulation	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.000986981177556689	0.0154298868341858	1012.90476190476
+GO:0097056	selenocysteinyl-tRNA(Sec) biosynthetic process	SLA	Sepsecs	Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase [Source:MGI Symbol;Acc:MGI:1098791]	0.00131578929923026	0.0154298868341858	759.678571428571
+GO:0071621	granulocyte chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00131578929923026	0.0154298868341858	759.678571428571
+GO:0035821	modulation of process of other organism	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.00164450465517629	0.0154298868341858	607.742857142857
+GO:0001514	selenocysteine incorporation	SLA	Sepsecs	Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase [Source:MGI Symbol;Acc:MGI:1098791]	0.00164450465517629	0.0154298868341858	607.742857142857
+GO:0006651	diacylglycerol biosynthetic process	MGAT1	Mogat1	monoacylglycerol O-acyltransferase 1 [Source:MGI Symbol;Acc:MGI:1915643]	0.00197312726720567	0.0154298868341858	506.452380952381
+GO:0032354	response to follicle-stimulating hormone	PAG1	Pappa	pregnancy-associated plasma protein A [Source:MGI Symbol;Acc:MGI:97479]	0.00197312726720567	0.0154298868341858	506.452380952381
+GO:2000503	positive regulation of natural killer cell chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00197312726720567	0.0154298868341858	506.452380952381
+GO:0032098	regulation of appetite	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.00230165715712471	0.0154298868341858	434.102040816326
+GO:0043615	astrocyte cell migration	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00263009434673622	0.0154298868341858	379.839285714286
+GO:0010818	T cell chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00263009434673622	0.0154298868341858	379.839285714286
+GO:0014808	release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00263009434673622	0.0154298868341858	379.839285714286
+GO:0023052	signaling	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00295843885783897	0.0162714137181144	337.634920634921
+GO:0070723	response to cholesterol	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00328669071222665	0.0170134578044674	303.871428571429
+GO:0043922	negative regulation by host of viral transcription	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00394291653801571	0.0170835622119396	253.22619047619
+GO:0006091	generation of precursor metabolites and energy	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.00394291653801571	0.0170835622119396	253.22619047619
+GO:0001775	cell activation	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00394291653801571	0.0170835622119396	253.22619047619
+GO:0006071	glycerol metabolic process	MGAT1	Mogat1	monoacylglycerol O-acyltransferase 1 [Source:MGI Symbol;Acc:MGI:1915643]	0.00427089055298491	0.0170835622119396	233.747252747253
+GO:0048246	macrophage chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00427089055298491	0.0170835622119396	233.747252747253
+GO:0034063	stress granule assembly	G3BP2	G3bp2	GTPase activating protein (SH3 domain) binding protein 2 [Source:MGI Symbol;Acc:MGI:2442040]	0.00492656089596344	0.0188494503845558	202.580952380952
+GO:0019432	triglyceride biosynthetic process	MGAT1	Mogat1	monoacylglycerol O-acyltransferase 1 [Source:MGI Symbol;Acc:MGI:1915643]	0.00525425726751649	0.0192656099808938	189.919642857143
+GO:0048245	eosinophil chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00558186113480064	0.0196481511944982	178.747899159664
+GO:0050850	positive regulation of calcium-mediated signaling	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00656411792863765	0.0222170145276967	151.935714285714
+GO:0045862	positive regulation of proteolysis	AIP	Aurkaip1	aurora kinase A interacting protein 1 [Source:MGI Symbol;Acc:MGI:1913327]	0.00754554296722942	0.0245928807820811	132.11801242236
+GO:0045671	negative regulation of osteoclast differentiation	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00852613683758685	0.0267964300609872	116.873626373626
+GO:0045672	positive regulation of osteoclast differentiation	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00917940461409328	0.0278547450358693	108.525510204082
+GO:0030595	leukocyte chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.00950590012638919	0.027883973704075	104.783251231527
+GO:0051928	positive regulation of calcium ion transport	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0101586145076289	0.0288373573119788	98.0230414746544
+GO:0031640	killing of cells of other organism	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.0111369947966719	0.0296687789054811	89.3739495798319
+GO:0031663	lipopolysaccharide-mediated signaling pathway	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0114629373043904	0.0296687789054811	86.8204081632653
+GO:0048247	lymphocyte chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0114629373043904	0.0296687789054811	86.8204081632653
+GO:0043491	protein kinase B signaling	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0130912689041347	0.0320008795434404	75.9678571428571
+GO:0002548	monocyte chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0130912689041347	0.0320008795434404	75.9678571428571
+GO:0051930	regulation of sensory perception of pain	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0150422316188804	0.0355869000100026	66.0590062111801
+GO:0050918	positive chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0153670704588648	0.0355869000100026	64.6534954407295
+GO:0032731	positive regulation of interleukin-1 beta production	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0173141757930797	0.0380911867447753	57.3342318059299
+GO:0008217	regulation of blood pressure	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.0173141757930797	0.0380911867447753	57.3342318059299
+GO:0032720	negative regulation of tumor necrosis factor production	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.0211984873301724	0.0454991923184188	46.7494505494505
+GO:0070098	chemokine-mediated signaling pathway	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0228130620135701	0.0469388837682516	43.4102040816327
+GO:0043525	positive regulation of neuron apoptotic process	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0237807106313318	0.0469388837682516	41.6262230919765
+GO:0050729	positive regulation of inflammatory response	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0241030776011205	0.0469388837682516	41.0637065637066
+GO:0030593	neutrophil chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0241030776011205	0.0469388837682516	41.0637065637066
+GO:0051384	response to glucocorticoid	PAG1	Pappa	pregnancy-associated plasma protein A [Source:MGI Symbol;Acc:MGI:97479]	0.025069631103498	0.0469388837682516	39.4638218923933
+GO:0001649	osteoblast differentiation	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.025069631103498	0.0469388837682516	39.4638218923933
+GO:0071407	cellular response to organic cyclic compound	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0257135441477921	0.0471414976042856	38.4647377938517
+GO:0019722	calcium-mediated signaling	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0273217321626869	0.0490676006187029	36.1751700680272
+GO:0071347	cellular response to interleukin-1	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0279643699817371	0.0492172911678573	35.3338870431894
+GO:0000165	MAPK cascade	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0286066438375222	0.049360483484352	34.5308441558442
+GO:0032760	positive regulation of tumor necrosis factor production	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0311721030629259	0.0503117666016974	31.6532738095238
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.0314923767478636	0.0503117666016974	31.3269513991163
+GO:0051028	mRNA transport	G3BP2	G3bp2	GTPase activating protein (SH3 domain) binding protein 2 [Source:MGI Symbol;Acc:MGI:2442040]	0.0314923767478636	0.0503117666016974	31.3269513991163
+GO:0006874	cellular calcium ion homeostasis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0321326518747751	0.0503117666016974	30.6940836940837
+GO:0007264	small GTPase mediated signal transduction	G3BP2	G3bp2	GTPase activating protein (SH3 domain) binding protein 2 [Source:MGI Symbol;Acc:MGI:2442040]	0.033092384279145	0.0503117666016974	29.7913165266106
+GO:0006887	exocytosis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0337317526079562	0.0503117666016974	29.2184065934066
+GO:0007218	neuropeptide signaling pathway	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.0337317526079562	0.0503117666016974	29.2184065934066
+GO:0009636	response to toxic substance	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0337317526079562	0.0503117666016974	29.2184065934066
+GO:0007565	female pregnancy	PAG1	Pappa	pregnancy-associated plasma protein A [Source:MGI Symbol;Acc:MGI:97479]	0.0350094021784366	0.0513471231950404	28.1362433862434
+GO:0071346	cellular response to interferon-gamma	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0356476837624634	0.0514261667392915	27.6246753246753
+GO:0051260	protein homooligomerization	G3BP2	G3bp2	GTPase activating protein (SH3 domain) binding protein 2 [Source:MGI Symbol;Acc:MGI:2442040]	0.0375603577624748	0.0533114755338352	26.1958128078818
+GO:0007010	cytoskeleton organization	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0416933328980739	0.0582383062703254	23.5559246954596
+GO:0071356	cellular response to tumor necrosis factor	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0426449329816998	0.0586367828498372	23.0205627705628
+GO:0006935	chemotaxis	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0435957230014574	0.0590219019096654	22.5089947089947
+GO:0006816	calcium ion transport	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0451785744533084	0.0602380992710779	21.7051020408163
+GO:0042593	glucose homeostasis	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.0464432384232012	0.0610000743468911	21.1021825396825
+GO:0008360	regulation of cell shape	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0502286195877583	0.0650017429959225	19.4789377289377
+GO:0045944	positive regulation of transcription by RNA polymerase II	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0510708841630838	0.0651338812514691	5.2893199055079
+GO:0045944	positive regulation of transcription by RNA polymerase II	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.0510708841630838	0.0651338812514691	5.2893199055079
+GO:0007204	positive regulation of cytosolic calcium ion concentration	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0536872300222204	0.06749251774222	18.1958939264328
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0732884120685858	0.0908363417188106	13.211801242236
+GO:0030335	positive regulation of cell migration	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0766749013184965	0.0937137682781624	12.6087729697688
+GO:0010629	negative regulation of gene expression	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0898114220158444	0.108265823799922	10.6996981891348
+GO:0006412	translation	SLA	Sepsecs	Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase [Source:MGI Symbol;Acc:MGI:1098791]	0.0955646982803816	0.113644506063157	10.028760018859
+GO:0043547	positive regulation of GTPase activity	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.0979777883697305	0.114960605020484	9.77078548461185
+GO:0042493	response to drug	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.105782258842893	0.122484720765455	9.01695633743111
+GO:0006397	mRNA processing	AIP	Aurkaip1	aurora kinase A interacting protein 1 [Source:MGI Symbol;Acc:MGI:1913327]	0.107276463659398	0.122601672753598	8.88512949039265
+GO:0006954	inflammatory response	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.108768527883939	0.122713210945983	8.75710168793742
+GO:0006955	immune response	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.117676103771431	0.131082242175771	8.06025009473285
+GO:0002376	immune system process	G3BP2	G3bp2	GTPase activating protein (SH3 domain) binding protein 2 [Source:MGI Symbol;Acc:MGI:2442040]	0.139611905163829	0.153573095680212	6.72281921618205
+GO:0045087	innate immune response	G3BP2	G3bp2	GTPase activating protein (SH3 domain) binding protein 2 [Source:MGI Symbol;Acc:MGI:2442040]	0.154544839579666	0.166464575266146	6.02919501133787
+GO:0010628	positive regulation of gene expression	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.155114717861636	0.166464575266146	6.00536420101637
+GO:0016567	protein ubiquitination	AIP	Aurkaip1	aurora kinase A interacting protein 1 [Source:MGI Symbol;Acc:MGI:1913327]	0.158810907516135	0.168377829655662	5.85494082025874
+GO:0006629	lipid metabolic process	MGAT1	Mogat1	monoacylglycerol O-acyltransferase 1 [Source:MGI Symbol;Acc:MGI:1915643]	0.16079541628672	0.168452340871802	5.77702335687127
+GO:0006468	protein phosphorylation	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.194743824174256	0.2016171356157	4.68937389770723
+GO:0006508	proteolysis	PAG1	Pappa	pregnancy-associated plasma protein A [Source:MGI Symbol;Acc:MGI:97479]	0.198835366424799	0.203459444713748	4.58327946563241
+GO:0007165	signal transduction	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.238374036610243	0.241113968065534	2.13617875972885
+GO:0007165	signal transduction	POMC	Pomc	pro-opiomelanocortin-alpha [Source:MGI Symbol;Acc:MGI:97742]	0.238374036610243	0.241113968065534	2.13617875972885
+GO:0007186	G protein-coupled receptor signaling pathway	CCL3	Ccl3	chemokine (C-C motif) ligand 3 [Source:MGI Symbol;Acc:MGI:98260]	0.520337099357368	0.520337099357368	1.43403222544327
